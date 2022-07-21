@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Employees Management](https://github.com/patrykjakimczyk/employees_management)
 
-- 🤝 I’m looking for internship as **Java Developer**
-
 - 🌱 I’m currently learning **Spring framework**
 
 - 📫 How to reach me **patr.jakimczyk@gmail.com**
