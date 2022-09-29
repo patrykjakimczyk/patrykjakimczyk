@@ -1,20 +1,41 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">a beginner Java developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patrykjakimczyk&label=Profile%20views&color=0e75b6&style=flat" alt="patrykjakimczyk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=patrykjakimczyk&label=Profile%20views&color=0e75b6&style=flat" alt="patrykjakimczyk" /> </p>
 
-- 🔭 I’m currently working on [Employees Management](https://github.com/patrykjakimczyk/employees_management)
-
-- 🌱 I’m currently learning **Spring framework**
-
-- 📫 How to reach me **patr.jakimczyk@gmail.com**
-
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patryk-jakimczyk-31a434211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrykjakimczyk" height="30" width="40" /></a>
+<p align="center">
+    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/employees_management">Employees Management</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="center">
+    🌱 I’m currently learning <b>Spring framework</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrykjakimczyk&show_icons=true&locale=en&layout=compact" alt="patrykjakimczyk" /></p>
+<p align="center">
+    📫 How to reach me <b>patr.jakimczyk@gmail.com</b>
+</p>
+
+<h3 align="center">Connect with me on:</h3>
+
+<div align="center">
+    <p align="center">
+    <a href="https://linkedin.com/in/patryk-jakimczyk-31a434211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrykjakimczyk" height="35" width="35" /></a>
+    </p>
+</div>
+
+<div align="center">
+    <p align="center">
+        <h3 align="center">Languages and Tools:</h3>
+        <img align="center" alt="Java" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+        <img align="center" alt="Java" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+        <img align="center" alt="Java" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+        <img align="center" alt="Java" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+        <img align="center" alt="Java" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    </p>
+</div>
+
+<br>
+
+<p align="center">
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrykjakimczyk&show_icons=true&locale=en&layout=compact" alt="patrykjakimczyk" />
+</p>
