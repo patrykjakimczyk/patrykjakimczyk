@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=patrykjakimczyk&label=Profile%20views&color=0e75b6&style=flat" alt="patrykjakimczyk" /> </p>
 
 <p align="center">
-    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/employees_management">meansCalculatorRESTApi</a>
+    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/medical_visits">medical_visits</a>, <a href="https://github.com/patrykjakimczyk/employees_management">meansCalculatorRESTApi</a>
 </p>
 
 <p align="center">
