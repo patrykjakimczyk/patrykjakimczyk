@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">a beginner Full stack developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=patrykjakimczyk&label=Profile%20views&color=0e75b6&style=flat" alt="patrykjakimczyk" /> </p>
-
 <p align="center">
-    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/medical_visits">medical_visits</a>
+    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/cookie_app">cookie_app</a>
 </p>
 
 <p align="center">
