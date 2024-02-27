@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    🌱 I’m currently learning <b>Spring framework & Angular</b>
+    🌱 I’m currently learning <b>Docker & Spring Cloud</b>
 </p>
 
 <p align="center">
