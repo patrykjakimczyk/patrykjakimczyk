@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">a beginner Full stack developer</h3>
+<h3 align="center">a Full stack developer</h3>
 
 <p align="center">
-    🔭 I’m currently working on <a href="https://github.com/patrykjakimczyk/cookie_app">cookie_app</a>
+    🔭 I’m currently working on migrating <a href="https://github.com/patrykjakimczyk/cookie_app">cookie_app to microservices architecture</a>
 </p>
 
 <p align="center">
-    🌱 I’m currently learning <b>Docker & Spring Cloud</b>
+    🌱 I’m currently learning <b>Spring Cloud</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <div align="center">
     <p align="center">
-    <a href="https://linkedin.com/in/patryk-jakimczyk-31a434211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrykjakimczyk" height="35" width="35" /></a>
+    <a href="https://linkedin.com/in/patryk-jakimczyk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrykjakimczyk" height="35" width="35" /></a>
     </p>
 </div>
 
@@ -32,7 +32,7 @@
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45"/>
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45"/>
         <img align="center" alt="sass" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-        <img align="center" alt="tailwind" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+        <img align="center" alt="tailwind" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45"/>
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45"/> 
         <img align="center" alt="git" width="45" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
