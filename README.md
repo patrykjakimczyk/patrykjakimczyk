@@ -3,7 +3,7 @@
 <h3 align="center">a Full stack developer</h3>
 
 <p align="center">
-    🔭 I’m currently working on migrating <a href="https://github.com/patrykjakimczyk/cookie_app">cookie_app to microservices architecture</a>
+    🔭 I’m currently working on migrating <a href="https://github.com/patrykjakimczyk/cookie_app">cookie_app</a> to microservices architecture
 </p>
 
 <p align="center">
